@@ -1,11 +1,14 @@
 .body {
-
+  background-color: #1f1f23;
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  overflow: scroll;
 }
 
-.body__left{
-
+.body__left {
+  width: 96%;
 }
 
-.body__rightPlaceholder{
-    
+.body__rightPlaceholder {
 }

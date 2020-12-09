@@ -6,9 +6,11 @@ export default function Body() {
   return (
     <div className="body">
       <div className="body__left">
-        <Profile />
+      <Profile />
       </div>
-      <div className="body__rightPlaceholder"></div>
+      <div className="body__rightPlaceholder">
+      
+      </div>
     </div>
   );
 }

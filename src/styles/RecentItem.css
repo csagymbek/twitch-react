@@ -1,0 +1,22 @@
+.recentItem {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  white-space: nowrap;
+  margin-right: 20px;
+  overflow: hidden;
+}
+
+.recentItem__details {
+  display: flex;
+  margin-top: 25px;
+}
+
+.recentItem__details > img {
+  object-fit: contain;
+  height: 60px;
+  margin-right: 10px;
+}
+
+.recentItem__detailsText {
+}

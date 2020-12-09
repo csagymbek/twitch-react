@@ -10,17 +10,12 @@ export default function Sidebar() {
         <Channel
           avatar="https://avatars0.githubusercontent.com/u/43115122?s=460&u=63e0d46721cbdb324d204c461a47f0dc0d3b5840&v=4"
           name="Stilbo Tech"
-          followers="820k"
-        />
-        <Channel
-          avatar="https://avatars0.githubusercontent.com/u/43115122?s=460&u=63e0d46721cbdb324d204c461a47f0dc0d3b5840&v=4"
-          name="Stilbo Tech"
           followers="220k"
         />
         <h5>RECOMMENDED CHANNELS</h5>
         <Channel
-          avatar="https://avatars0.githubusercontent.com/u/43115122?s=460&u=63e0d46721cbdb324d204c461a47f0dc0d3b5840&v=4"
-          name="Stilbo Tech"
+          avatar="https://yt3.ggpht.com/ytc/AAUvwnjy7FJqnVcPKrhrTiRBpEfkpfPylMBHl7ITRvybcg=s176-c-k-c0x00ffffff-no-rj"
+          name="SpaceAmbient"
           followers="10k"
         />
         <p className="sidebar__topShowMore">Show More</p>
